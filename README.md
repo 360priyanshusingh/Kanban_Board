@@ -1,7 +1,8 @@
 # Kanban_Board
 Kanban board application  have the following functionalities:
 
-[1] Home Page: Display a list of Kanban boards on the home page.
+[1] Home Page: 
+             Display a list of Kanban boards on the home page.
 [2] Kanban Board CRUD: Implement Create, Read, Update, and Delete operations for Kanban boards.
 [3] Kanban Board Properties: Each Kanban board should have a name and description.
 [4].Kanban Columns: Each Kanban board should have a minimum of 3 columns: "To Do," "In Progress," and "Completed."
